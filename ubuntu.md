@@ -28,7 +28,7 @@ sudo apt install -y git
 :bulb: To **paste it in the terminal**, you need to use `Ctrl` + `Shift` + `V`.
 
 
-## Visual Studio Code (VSCODE) - Your text editor
+## Visual Studio Code (vscode) - Your text editor
 
 A text editor is one of the most important tools of a developer.
 Follow these instructions :
