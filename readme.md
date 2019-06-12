@@ -11,3 +11,27 @@ Make sure your added as one of the contributors to this GitHub repository so tha
 #### For Others
 We alwasy welcome open source enthusiast who are keen to share their knowledge and want to improve the learning experience for this experiment, so please feel free to reach out to 
 Program Manager : Emmanuel Evance (mtuchidev@gmail.com).
+
+## Setup
+
+Setup guides made for [The Wandering Earth](https://github.com/irabu-dev/the-wandering-earth). Please choose your operating system (OS):
+
+<table>
+  <tr>
+    <td>
+      <a href="macos.md">
+        <img src="images/apple.png" alt="macOS" />
+      </a>
+    </td>
+    <td>
+      <a href="ubuntu.md">
+        <img src="images/linux.png" alt="Ubuntu" />
+      </a>
+    </td>
+    <td>
+      <a href="windows.md">
+        <img src="images/windows.png" alt="Windows">
+      </a>
+    </td>
+  </tr>
+</table>
