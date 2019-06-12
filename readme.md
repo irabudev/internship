@@ -1,6 +1,6 @@
 ## Introduction
 
-The Wandering Earth named after [Chinese SciFi Film](https://en.wikipedia.org/wiki/The_Wandering_Earth), It's a program prepared for irabu interns jorney to the professional programmers.
+The Wandering Earth named after [Chinese SciFi Film](https://en.wikipedia.org/wiki/The_Wandering_Earth), It's a program prepared for irabu interns journey to become professional programmers.
 
 The project contains series of assingment with different challenges in different programming language that are supposed to be shared to interns and start a conversation on the possible best practise in programming through commits/pull request review.
 
