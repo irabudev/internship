@@ -153,7 +153,7 @@ It should tell you if your workstation is ready :) If not, ask a teacher.
 
 [Install Slack for Linux (beta)](https://get.slack.help/hc/en-us/articles/212924728-Slack-for-Linux-beta-).
 
-Launch the app and sign in to `irabu` organization.
+Launch the app and sign in to [irabu organization](irabu.slack.com).
 
 Make sure you upload a picture there.
 
@@ -161,6 +161,6 @@ You can also sign in to Slack on your iPhone or Android device!
 
 The idea is that you'll have Slack open all day, so that you can share useful links / ask for help / etc.
 
-Enjoy your journey with The Wandering Earth project :)
+Enjoy your journey with **The Wandering Earth** project :)
 
 
