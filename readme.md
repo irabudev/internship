@@ -35,3 +35,7 @@ Setup guides made for [The Wandering Earth](https://github.com/irabu-dev/the-wan
     </td>
   </tr>
 </table>
+
+## Styleguide 
+
+- [Git Styleguide ](git.md)
