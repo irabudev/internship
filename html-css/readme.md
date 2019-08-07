@@ -15,3 +15,4 @@ To run a simple HTTP Server during development make sure you have either python 
 $ maria.html  # Maria's personal assignment
 $ nick.html   # Nick's personal assignment
 ```
+> Note: Put the html files inside the folder of that assignment
